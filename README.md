@@ -1,5 +1,7 @@
 # Lumen
 
+**[Try it live →](https://nishadniphade10003-byte.github.io/lumen-alarm/)**
+
 A calm, contemporary alarm clock for the browser. Dark by default, gradient-driven,
 and genuinely functional — alarms really ring, sounds really play, and everything
 you set is still there after a reload.
